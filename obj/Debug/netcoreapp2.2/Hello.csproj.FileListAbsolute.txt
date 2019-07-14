@@ -1,0 +1,11 @@
+/Users/justimaybe/Desktop/hello_world/bin/Debug/netcoreapp2.2/Hello.deps.json
+/Users/justimaybe/Desktop/hello_world/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.json
+/Users/justimaybe/Desktop/hello_world/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.dev.json
+/Users/justimaybe/Desktop/hello_world/bin/Debug/netcoreapp2.2/Hello.dll
+/Users/justimaybe/Desktop/hello_world/bin/Debug/netcoreapp2.2/Hello.pdb
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.csprojAssemblyReference.cache
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.csproj.CoreCompileInputs.cache
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.AssemblyInfoInputs.cache
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.AssemblyInfo.cs
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.dll
+/Users/justimaybe/Desktop/hello_world/obj/Debug/netcoreapp2.2/Hello.pdb
